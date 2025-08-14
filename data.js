@@ -49,7 +49,7 @@ var APP_DATA = {
           "yaw": -2.8314278162936155,
           "pitch": -0.17670944942521416,
           "title": "плита 60*120",
-          "text": "https://tdstroitel.ru/plitka/plitka-dlya-doma/plitka-dlya-pola/keramogranit-ays-byanko-bali-pei-3-60-h-120-h-0-9/"
+          "text": "<span style=\"color: rgb(80, 0, 80); font-family: Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-size: 14px;\">\"Link\": \"&lt;a href=\\\"</span>https://tdstroitel.ru/plitka/plitka-dlya-doma/plitka-dlya-pola/keramogranit-ays-byanko-bali-pei-3-60-h-120-h-0-9<span style=\"color: rgb(80, 0, 80); font-family: Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-size: 14px;\">\\\"&gt;</span>Ссылка<span style=\"color: rgb(80, 0, 80); font-family: Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-size: 14px;\">&lt;/a&gt;\"</span>"
         }
       ]
     },
@@ -119,8 +119,8 @@ var APP_DATA = {
       ],
       "faceSize": 1000,
       "initialViewParameters": {
-        "yaw": -2.049374008476274,
-        "pitch": 0.07519308370814315,
+        "yaw": -1.74839375991807,
+        "pitch": 0.18282297402516257,
         "fov": 1.325599857056214
       },
       "linkHotspots": [
